@@ -15,3 +15,7 @@ Intel Pentium 4
 2GB Ram
 
 470MB Of Storage (If Getting The DLC, Up To 2GB)
+## Releaces
+### v0.0.1-a
+#### Notes:
+The App Takes A **LONG** Time To Load (About 3-10 Seconds (Even With An SSD))
