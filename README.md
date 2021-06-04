@@ -1,5 +1,5 @@
-# The Shadow Realm
-The Source Code And App For My New Game, The Shadow Realm!
+# Shadow
+The Source Code And App For My New Game, Shadow!
 ## Recomended Specs
 ### Windows
 Intel Core i5-4690K
@@ -18,4 +18,4 @@ Intel Pentium 4
 ## Releaces
 ### v0.0.1-a
 #### Notes:
-The App Takes A **LONG** Time To Load (About 3-10 Seconds (Even With An SSD))
+The App Takes A **LONG** Time To Load (About 3-15 Seconds (Even With An SSD))
