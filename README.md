@@ -9,13 +9,15 @@ Intel Core i5-4690K
 470MB Of Storage (If Getting The DLC, Up To 2GB)
 ### Mac
 Mac ONLY Warning: Likely Not Supported On Newer MacBooks / Macs.
+
+
 Otherwise: Wait or switch to windows, or just use the same as above and pray that it works.
 ### Linux (Or Newer Chromebook)
 Intel Pentium 4
 
 2GB Ram
 
-'Supported' Chromebooks: https://www.chromium.org/chromium-os/chrome-os-systems-supporting-linux
+['Supported' Chromebooks](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-linux)
 
 470MB Of Storage (If Getting The DLC, Up To 2GB)
 
