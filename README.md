@@ -10,7 +10,6 @@ Intel Core i5-4690K
 ### Mac
 Mac ONLY Warning: Likely Not Supported On Newer MacBooks / Macs.
 
-
 Otherwise: Wait or switch to windows, or just use the same as above and pray that it works.
 ### Linux (Or Newer Chromebook)
 Intel Pentium 4
