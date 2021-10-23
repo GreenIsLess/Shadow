@@ -19,7 +19,7 @@ Intel Pentium 4
 
 470MB Of Storage (If Getting The DLC, Up To 2GB)
 
-## Releaces
+## Releases
 
 ### v0.0.1-a
 
