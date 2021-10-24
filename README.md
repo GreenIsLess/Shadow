@@ -1,2 +1,2 @@
-# GO HERE NEW VERSION IN AN HOUR.
+# GO HERE NEW VERSION LIVE NOW.
 https://github.com/GreenIsLess/The-Dark-Shadow
