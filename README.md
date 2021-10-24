@@ -1,4 +1,6 @@
 # Shadow
+**Source code was accidentally deleted by GreenIsLess, see the issues page for more info.**
+
 The Source Code And App For My New Game, Shadow!
 ## Recomended Specs
 ### Windows
