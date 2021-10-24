@@ -1,5 +1,6 @@
 # Shadow
-**Source code was accidentally deleted by GreenIsLess, see the issues page for more info.**
+**Source code was accidentally deleted by GreenIsLess, [see the issues page for more info.](https://github.com/GreenIsLess/Shadow/issues/2)**
+
 
 The Source Code And App For My New Game, Shadow!
 ## Recomended Specs
